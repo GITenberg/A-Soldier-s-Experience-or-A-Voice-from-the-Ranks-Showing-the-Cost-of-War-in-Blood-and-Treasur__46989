@@ -1,10 +1,16 @@
 _repo: A-Soldier-s-Experience-or-A-Voice-from-the-Ranks-Showing-the-Cost-of-War-in-Blood-and-Treasur__46989
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46989-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Gowing, Timothy
     gutenberg_agent_id: '44081'
     url: http://www.gutenberg.org/2009/agents/44081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46989#A-Soldier-s-Experience-or-A-Voice-from-the-Ranks-Showing-the-Cost-of-War-in-Blood-and-Treasur_
 gutenberg_issued: '2014-09-28'
 gutenberg_type: Text
 identifiers:
