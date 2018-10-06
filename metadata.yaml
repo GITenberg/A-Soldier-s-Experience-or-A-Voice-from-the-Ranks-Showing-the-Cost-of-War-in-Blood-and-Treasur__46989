@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "A Soldier's Experience\r\nor A Voice from the Ranks: Showing the Cost of War\
   \ in Blood and Treasure\r\nA Personal Narrative of the Crimean Campaign, from the\
   \ Standpoint of the Ranks; the Indian Mutiny, and Some of its Atrocities; the Afghan\
